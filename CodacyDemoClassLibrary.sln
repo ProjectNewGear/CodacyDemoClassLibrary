@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodacyDemoClassLibrary", "CodacyDemoClassLibrary\CodacyDemoClassLibrary.csproj", "{04514505-FAFC-4467-8D0C-FCA2C5631E04}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodacyDemoConsole", "CodacyDemoConsole\CodacyDemoConsole.csproj", "{32F9B7D6-BB6F-421B-9190-88DA47FF1ED9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{04514505-FAFC-4467-8D0C-FCA2C5631E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04514505-FAFC-4467-8D0C-FCA2C5631E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04514505-FAFC-4467-8D0C-FCA2C5631E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F9B7D6-BB6F-421B-9190-88DA47FF1ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F9B7D6-BB6F-421B-9190-88DA47FF1ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F9B7D6-BB6F-421B-9190-88DA47FF1ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F9B7D6-BB6F-421B-9190-88DA47FF1ED9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
